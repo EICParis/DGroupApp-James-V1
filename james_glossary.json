@@ -1,0 +1,789 @@
+{
+  "book": "james",
+  "bible_version": "WEB",
+  "title": "Glossary of 75 Key Words in James",
+  "description": "Every word in this glossary was chosen because James uses it with a specific weight and intention. These are not random vocabulary words. They are the building blocks of a letter that refuses to let faith stay in the realm of theory. James grabs your theology by the hand and walks it straight into the marketplace, the workplace, and the living room. Understanding these words will help you hear what the brother of our Lord was really saying to the scattered believers of his day, and what he is still saying to us.",
+  "total_words": 75,
+  "glossary": [
+    {
+      "word": "god",
+      "count": 17,
+      "definition": "The Creator, Sustainer, and Ruler of all things, the one true Source from whom everything proceeds and for whom everything exists. James presents God as the generous Father who gives wisdom without holding it back, who does not tempt anyone with evil, and who opposes the proud but embraces the humble. He is not distant or indifferent. He is the Father of lights, the Measure of all reality, the unshifting foundation for the believer facing trials in a world full of fading illusions. For James, to know God is not mere intellectual knowledge. It is an intimate, personal relationship that shapes how you live, how you speak, and how you treat every single person around you.",
+      "key_verse": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation nor turning shadow.",
+      "reference": "James 1:17",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "faith",
+      "count": 16,
+      "definition": "A living trust in God that shows itself through action. This is the heartbeat of the entire letter. Faith is the engine of the soul, the active expectation that works through love. James is not against faith. He is against a faith that sits in a chair and never gets up. In the original language, this word carries a deep sense of personal conviction and reliance on God, the kind of trust that moves your feet, opens your wallet, and changes the way you treat people. True faith trusts in what God accomplished in the past, in His sovereignty over the present, and in His promise to restore all things in the future. Faith that does not produce visible fruit is not weak faith. James says it is dead faith.",
+      "key_verse": "Even so faith, if it has no works, is dead in itself.",
+      "reference": "James 2:17",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "brothers",
+      "count": 15,
+      "definition": "Fellow believers in Christ, those who do the will of the Father, bound together by a sacred duty to bear one another's burdens. James uses this word more than almost any other. He says 'my brothers' and 'my beloved brothers' again and again. Even when he is correcting them sharply, he never stops calling them brothers. There is an old story about a traveler who saw a young boy carrying a smaller child on his back and said with pity, 'What a heavy burden you carry,' and the boy replied, 'He is not a burden, he is my brother.' That is the spirit James is calling for. A brother is not a project, not an inconvenience, not a weight. A brother is family, and you carry family with joy.",
+      "key_verse": "Count it all joy, my brothers, when you fall into various temptations.",
+      "reference": "James 1:2",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "lord",
+      "count": 14,
+      "definition": "The supreme ruler and master over all things. James uses this title to remind us that God is in charge, not us. We do not control tomorrow, we do not decide the outcome of our plans, and we do not hold the final verdict on anyone. The Lord gives, the Lord judges, the Lord is coming back. When James says 'if the Lord wills,' he is not being superstitious. He is teaching us to hold our plans with open hands and let God be God.",
+      "key_verse": "For you ought to say, 'If the Lord wills, we will both live, and do this or that.'",
+      "reference": "James 4:15",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "works",
+      "count": 12,
+      "definition": "The visible actions that demonstrate a genuine faith, the fruit of the hands. Every single time James uses this word, it appears in chapter 2, right in the middle of his most famous argument. He is not saying that works earn salvation. He is saying that if your faith is real, it will inevitably produce fruit. Works are the forensic evidence of a justified heart, the outward proof that something real has happened on the inside. Think of it this way: works are not the root of the tree, they are the fruit. But a tree with no fruit at all is a tree that has something seriously wrong on the inside.",
+      "key_verse": "You see that faith worked with his works, and by works faith was perfected.",
+      "reference": "James 2:22",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "law",
+      "count": 10,
+      "definition": "The moral instruction of God, which James calls 'the royal law' and 'the perfect law of freedom.' In the original language, this word refers not merely to a list of rules but to the whole teaching of God that guides His people. James is clear: the law is not a prison. It is a perfect mirror that reveals who you really are, showing both the sin that disfigures you and the path toward restoration. For the one who has been made new by God, this law is not a heavy yoke but a delight, a balm for the soul. And when you obey it from the heart, it sets you free. Breaking one part of it makes you guilty of the whole.",
+      "key_verse": "However, if you fulfill the royal law according to the Scripture, 'You shall love your neighbor as yourself,' you do well.",
+      "reference": "James 2:8",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "good",
+      "count": 7,
+      "definition": "That which aligns with God's character and purposes. James connects 'good' to gifts from above, to conduct that reflects wisdom, and to works that prove faith is alive. In a world that redefines good according to personal preference, James anchors it to the unchanging nature of God. If it comes from the Father of lights, it is good. If it does not, no matter how attractive it looks, it is not.",
+      "key_verse": "Who is wise and understanding among you? Let him show by his good conduct that his deeds are done in gentleness of wisdom.",
+      "reference": "James 3:13",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "perfect",
+      "count": 5,
+      "definition": "Complete, mature, lacking nothing. In the original language, this word does not mean flawless in the way we usually think. It means fully developed, having reached the intended goal. James says that endurance must do its full work so that you may be perfect and complete. God is not looking for people who never fail. He is looking for people who keep growing, who let the trials finish their work, until they look more and more like Christ.",
+      "key_verse": "Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing.",
+      "reference": "James 1:4",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "rich",
+      "count": 5,
+      "definition": "Those who possess material wealth. James does not condemn being rich. He condemns those who use their riches to oppress the poor, withhold wages from workers, and live in luxury while others suffer. He warns that riches are temporary, that gold corrodes, that fine garments get eaten by moths. The rich who trust in their wealth will fade away like a wildflower under the scorching sun. The real question is not how much you have, but what your wealth is doing to your soul and to the people around you.",
+      "key_verse": "Come now, you rich, weep and howl for your miseries that are coming on you.",
+      "reference": "James 5:1",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "evil",
+      "count": 5,
+      "definition": "Anything that opposes the character and will of God. James traces evil back to its source: it does not come from God. God cannot be tempted by evil and He tempts no one. Evil grows from the inside out, from our own desires that pull us away. James also speaks of evil thoughts, evil deeds, and evil speech. The tongue, he says, is 'a world of iniquity.' Evil is not just the big, dramatic sins. It is the small, daily choices that slowly pull us away from the Lord.",
+      "key_verse": "Let no man say when he is tempted, 'I am tempted by God,' for God can't be tempted by evil, and he himself tempts no one.",
+      "reference": "James 1:13",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "word",
+      "count": 5,
+      "definition": "The message and truth of God. James calls it 'the word of truth' by which God gave us new birth, and 'the implanted word' that has the power to save our souls. But he also says something that cuts deep: do not just listen to it. Do something with it. The person who hears the Word and does nothing is like someone who looks in a mirror, sees the mess, and walks away without fixing anything. The Word is meant to change you, not just inform you.",
+      "key_verse": "But be doers of the word, and not only hearers, deluding your own selves.",
+      "reference": "James 1:22",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "tongue",
+      "count": 5,
+      "definition": "The organ of speech, used by James as a powerful symbol for the enormous influence of our words. In the original language, the word for mouth also carries the meaning of a blade or an edge, and that is exactly how James treats it. The tongue can be a sword that destroys or medicine that heals. He compares it to a rudder that steers a ship, a bit that controls a horse, and a tiny spark that sets an entire forest on fire. The tongue is small but it boasts of great things. No human being can tame it. It blesses God and curses people made in God's image. James is telling us: if you want to know the true condition of your heart, listen carefully to what comes out of your mouth.",
+      "key_verse": "So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest!",
+      "reference": "James 3:5",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "world",
+      "count": 5,
+      "definition": "The system of values, desires, and priorities that runs in opposition to God, a hostile environment for the soul of the believer. James draws a very sharp line: friendship with the world is hostility toward God. You cannot have it both ways. In the original language, this word refers not to the physical earth but to the organized arrangement of human life that has turned its back on the Creator. It is the mentality that says: get what you can, enjoy what you want, and answer to no one. To share in its common hope is to share in its common ruin.",
+      "key_verse": "You adulterers and adulteresses, don't you know that friendship with the world is hostility toward God?",
+      "reference": "James 4:4",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "mercy",
+      "count": 5,
+      "definition": "Compassion shown to someone who does not deserve it. James says judgment is without mercy to the one who has shown no mercy, and then he adds one of the most beautiful lines in all of Scripture: mercy triumphs over judgment. If God dealt with us strictly by the rules, none of us would stand. But mercy steps in and says: I know what you deserve, and I choose to give you something better. James wants us to extend that same gift to others.",
+      "key_verse": "For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment.",
+      "reference": "James 2:13",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "fire",
+      "count": 5,
+      "definition": "James uses fire as a vivid image of destruction and purification. The tongue is a fire, set ablaze by the very pit of hell. The corrosion of hoarded wealth will eat the flesh of the rich like fire. In the ancient world, fire was both essential and terrifying. One small flame could warm a family or burn down an entire city. James is saying: your words carry that same double potential. Handle them with the seriousness they deserve.",
+      "key_verse": "And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna.",
+      "reference": "James 3:6",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "wisdom",
+      "count": 4,
+      "definition": "The ability to see life from God's perspective and act accordingly. James talks about two kinds of wisdom. One is earthly, driven by selfish ambition and jealousy, and it produces disorder and every kind of evil. It is the kind of wisdom that builds platforms instead of people, that turns churches into businesses and leaders into merchants. The other comes from above: it is pure, peaceful, gentle, reasonable, full of mercy and good fruits. In the original language, this word describes not academic intelligence but practical skill for living well before God. If you lack it, James says, ask God. He gives generously and without reproach.",
+      "key_verse": "But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.",
+      "reference": "James 3:17",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "humble",
+      "count": 4,
+      "definition": "Lowly in position or spirit, willing to place yourself under God's authority. James commands us to humble ourselves before the Lord, promising that He will lift us up. The brother in humble circumstances should take pride in his high spiritual position, while the rich should recognize how small they really are. In the original language, this word carries the idea of making yourself low, of bending the knee not because you are forced but because you understand who God is and who you are.",
+      "key_verse": "Humble yourselves in the sight of the Lord, and he will exalt you.",
+      "reference": "James 4:10",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "temptation",
+      "count": 4,
+      "definition": "A trial or enticement to do evil. In the original language, this word has a double meaning: it can refer to an external test that strengthens your faith or an internal pull toward sin. James makes a critical distinction: God tests us to refine us, but He never entices us to sin. That comes from our own desires, which conceive sin, and sin when fully grown produces death. A child may see the scalpel and think it is an attack, but the Father sees a surgeon carefully removing a deadly tumor. Trials are God's instruments of providence, designed to produce a deeper dependence on Him. Understanding where temptation comes from is the first step to resisting it.",
+      "key_verse": "But each one is tempted when he is drawn away by his own lust and enticed.",
+      "reference": "James 1:14",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "sin",
+      "count": 4,
+      "definition": "Missing the mark of God's standard. James traces the entire lifecycle of sin like a poisonous fruit growing on a tree: desire gives birth to sin, and sin when it is fully grown gives birth to death. It begins as a deceptive internal craving, something that looks attractive and harmless, but once it is conceived it brings forth destruction. He also says that knowing the right thing to do and not doing it is sin. This is a devastating statement. Sin is not only the bad things we do. It is also the good things we refuse to do. James leaves no room for comfortable passivity.",
+      "key_verse": "To him therefore who knows to do good and doesn't do it, to him it is sin.",
+      "reference": "James 4:17",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "father",
+      "count": 4,
+      "definition": "God as the loving source and origin of all good things. James calls Him 'the Father of lights,' a title found nowhere else in Scripture. It means that God is the origin of every form of light, every star, every truth, every moment of clarity. And unlike the sun and the moon that cast shifting shadows, the Father has no variation, no change, no dark side. He is constantly, eternally, reliably good.",
+      "key_verse": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation nor turning shadow.",
+      "reference": "James 1:17",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "partiality",
+      "count": 4,
+      "definition": "Treating people differently based on their outward appearance, wealth, or social status. In the original language, this word literally means 'to lift the face,' as in giving someone a favorable look based on who they are, not on what is right. James says this is incompatible with genuine faith. If a man with a gold ring walks into the assembly and gets the best seat while the poor man is told to stand in the corner, the church has become a court of unjust judges.",
+      "key_verse": "My brothers, don't hold the faith of our glorious Lord Jesus Christ with partiality.",
+      "reference": "James 2:1",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "poor",
+      "count": 4,
+      "definition": "Those who lack material resources. James has a special tenderness toward the poor. He says God chose the poor of this world to be rich in faith and heirs of the kingdom. God, in His sovereignty, determines the circumstances of every life, and He often chooses the lowly to receive the greatest spiritual inheritance. In the first century church, the poor were being dishonored and pushed aside in favor of the wealthy. James says this is backwards. God does not measure people by the thickness of their wallets. He measures them by the depth of their trust in Him.",
+      "key_verse": "Listen, my beloved brothers. Didn't God choose those who are poor in this world to be rich in faith and heirs of the Kingdom which he promised to those who love him?",
+      "reference": "James 2:5",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "dead",
+      "count": 4,
+      "definition": "Lifeless, without breath, without movement. Every time James uses this word in chapter 2, he is talking about faith. Faith without works is dead. Not weak. Not sleeping. Dead. Like a body without a spirit. He is not being dramatic for the sake of it. He is warning us that a confession of faith that produces no visible change in how you live, how you love, and how you treat people is not a living faith at all. It is a corpse with a name tag.",
+      "key_verse": "For as the body apart from the spirit is dead, even so faith apart from works is dead.",
+      "reference": "James 2:26",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "judge",
+      "count": 4,
+      "definition": "One who passes a verdict or sentence. James warns us not to set ourselves up as judges over our brothers. When you speak evil against a brother, you are placing yourself above the law and above God. There is only one Lawgiver and Judge, the Risen Lord who holds universal authority to evaluate every thought and action with absolute impartiality. He is the one who can save and destroy. James is not saying we should never evaluate right from wrong. He is saying: do not usurp the throne that belongs to God alone. The pride of making yourself the measure of all things is the oldest sin in existence. The Judge is standing at the door, and that should change how we treat every person we encounter.",
+      "key_verse": "Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?",
+      "reference": "James 4:12",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "earth",
+      "count": 5,
+      "definition": "The physical ground, the world where we live our temporary lives. In chapter 5, James uses the earth as the stage where both injustice and patience play out. The rich have lived in luxury on the earth. The farmer waits for the precious fruit of the earth. Elijah prayed and the earth produced its fruit again. For James, the earth is a temporary classroom, not a permanent home. What matters is not what you accumulate here but what you are becoming here.",
+      "key_verse": "He prayed again, and the sky gave rain, and the earth produced its fruit.",
+      "reference": "James 5:18",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "endurance",
+      "count": 2,
+      "definition": "The capacity to remain under pressure without giving up. In the original language, this word literally means 'to stay under,' to bear the weight of the trial instead of running away from it. James says endurance must have its complete work so that you may be mature and whole. Think of it as spiritual muscle. You do not build it in comfort. You build it in the very moment you want to quit and you choose to keep going anyway.",
+      "key_verse": "Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing.",
+      "reference": "James 1:4",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "gift",
+      "count": 2,
+      "definition": "Something given freely, without being earned. James says every good gift and every perfect gift comes down from the Father of lights. The word for 'gift' and the word for 'perfect gift' in the original language are actually two different words. One refers to the act of giving and the other to the thing given. Together they mean: both the generous impulse of God and the actual blessing He sends are entirely from above. Nothing good in your life is self-made.",
+      "key_verse": "Every good gift and every perfect gift is from above, coming down from the Father of lights.",
+      "reference": "James 1:17",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "double-minded",
+      "count": 2,
+      "definition": "A person who tries to go in two directions at the same time. In the original language, this word literally means 'two-souled.' James uses it twice, in chapter 1 for the person who prays but doubts, and in chapter 4 for the person who tries to be a friend of both God and the world. This person is unstable in everything. James is saying: make up your mind. You cannot sit on the fence forever. Either draw near to God with everything you have, or admit that you are still divided.",
+      "key_verse": "He is a double-minded man, unstable in all his ways.",
+      "reference": "James 1:8",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "blessed",
+      "count": 3,
+      "definition": "Deeply happy in a way that circumstances cannot take away. James declares blessed the person who endures temptation, because when they have been proven genuine, they will receive the crown of life. He also calls blessed those who have suffered with perseverance. This is not the happiness the world advertises. This is the quiet, unshakable joy that comes from knowing your trial has a purpose and your God has not forgotten you.",
+      "key_verse": "Blessed is a person who endures temptation, for when he has been approved, he will receive the crown of life which the Lord promised to those who love him.",
+      "reference": "James 1:12",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "life",
+      "count": 3,
+      "definition": "Human existence in its brevity and also in its eternal significance. James says our life is a vapor, a mist that appears for a little while and vanishes. But he also speaks of the crown of life, the eternal reward for those who endure. The contrast is powerful: your time on this earth is short, but the decisions you make here have consequences that last forever. Live accordingly.",
+      "key_verse": "For what is your life? For you are a vapor that appears for a little time and then vanishes away.",
+      "reference": "James 4:14",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "love",
+      "count": 3,
+      "definition": "Active, self-giving care for another person. James connects love directly to the royal law: 'You shall love your neighbor as yourself.' Love in this letter is not a feeling. It is a decision to treat others the way God has treated you. It means not giving the best seat to the rich man while ignoring the poor one. It means feeding the hungry brother, not just telling him to stay warm.",
+      "key_verse": "However, if you fulfill the royal law according to the Scripture, 'You shall love your neighbor as yourself,' you do well.",
+      "reference": "James 2:8",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "lust",
+      "count": 3,
+      "definition": "A strong desire that pulls you toward sin. In the original language, this word refers to any overpowering craving, not only sexual desire. It is the internal magnet that draws you away from God and toward self-destruction. James says each person is tempted when they are dragged away by their own lust. The enemy does not always need to do much. Our own desires, when we let them run wild, are enough to bring us down.",
+      "key_verse": "But each one is tempted when he is drawn away by his own lust and enticed.",
+      "reference": "James 1:14",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "truth",
+      "count": 3,
+      "definition": "The reality of things as God sees them. James speaks of the 'word of truth' by which God gave us spiritual birth. He also closes his letter with the concern for anyone who wanders from the truth. Truth in James is not a philosophical concept you debate in a classroom. It is the firm ground you stand on, and when someone steps off it, the loving thing to do is go after them and bring them back.",
+      "key_verse": "Brothers, if any among you wanders from the truth and someone turns him back, let him know that he who turns a sinner from the error of his way will save a soul from death.",
+      "reference": "James 5:19-20",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "righteousness",
+      "count": 3,
+      "definition": "Right standing before God, doing what is morally correct. James says the anger of man does not produce the righteousness of God. In other words, your outrage, no matter how justified it feels, does not accomplish what God is looking for. Instead, the fruit of righteousness is sown in peace by those who make peace. If you want to see righteousness grow, plant seeds of reconciliation, not seeds of conflict.",
+      "key_verse": "Now the fruit of righteousness is sown in peace by those who make peace.",
+      "reference": "James 3:18",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "doer",
+      "count": 3,
+      "definition": "A person who acts on what they hear. This word is uniquely important in James. He contrasts the doer with the hearer. The hearer listens but does nothing. The doer hears and obeys. James says this person will be blessed in what they do. Christianity, for James, is not a spectator sport. You are called to get on the field, get your hands dirty, and live out the faith you profess.",
+      "key_verse": "But he who looks into the perfect law of freedom and continues, not being a hearer who forgets but a doer of the work, this man will be blessed in what he does.",
+      "reference": "James 1:25",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "scripture",
+      "count": 3,
+      "definition": "The written Word of God, the sacred text. James quotes Scripture directly and treats it as the final authority. He cites 'You shall love your neighbor as yourself,' the story of Abraham, and the proverb about God opposing the proud. For James, Scripture is not optional reading. It is the voice of God put on paper, and it settles every argument.",
+      "key_verse": "So the Scripture was fulfilled which says, 'Abraham believed God, and it was accounted to him as righteousness.'",
+      "reference": "James 2:23",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "judgment",
+      "count": 3,
+      "definition": "The evaluation and verdict that God renders. James warns that teachers will receive a stricter judgment, that showing no mercy invites judgment without mercy, and that the Judge is standing at the door. This is not meant to terrorize us but to wake us up. We will give an account. The way we treat people, the words we speak, the opportunities we waste. Judgment is real, and it begins with the household of God.",
+      "key_verse": "Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment.",
+      "reference": "James 3:1",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "peace",
+      "count": 3,
+      "definition": "Harmony with God and with others. The wisdom from above is peaceable, and the fruit of righteousness is sown in peace by peacemakers. James is writing to people full of conflicts, fights, and bitter jealousy. His prescription is not more arguing but more peacemaking. In the original language, this word carries the idea of wholeness, completeness, everything being in its right place. Peace is not the absence of problems. It is the presence of God in the middle of them.",
+      "key_verse": "Now the fruit of righteousness is sown in peace by those who make peace.",
+      "reference": "James 3:18",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "justified",
+      "count": 3,
+      "definition": "Declared righteous, shown to be genuine. James uses Abraham and Rahab as his two witnesses. Abraham was justified by works when he offered Isaac. Rahab was justified by works when she hid the spies. James is not contradicting Paul. He is saying that a faith which has been declared genuine by God will inevitably show itself through obedient action. The verdict was already given in heaven, but the evidence is displayed on earth.",
+      "key_verse": "You see then that by works a man is justified, and not only by faith.",
+      "reference": "James 2:24",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "fruit",
+      "count": 3,
+      "definition": "The visible result of what is planted inside. James talks about the fruit of righteousness sown in peace, and the farmer who waits patiently for the precious fruit of the earth. Fruit takes time. It requires the right soil, the right rain, and above all, patience. James is telling us: do not rush God's process. Plant the right seeds, water them with obedience, and trust that the harvest will come in due season.",
+      "key_verse": "Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain.",
+      "reference": "James 5:7",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "patience",
+      "count": 3,
+      "definition": "The ability to wait without complaining, trusting God's timing. Patience is the fruit of tribulation, the spiritual muscle that grows only under pressure. James uses the farmer as his great illustration. The farmer plants and then waits for the early rain and the late rain. He does not dig up the seed every morning to check on it. He trusts the process. In the same way, believers must wait for the coming of the Lord with steady hearts, satisfied in the knowledge that God's timing is perfect even when our circumstances scream otherwise. Patience is not passive. It is an active decision to keep trusting when every part of you wants to give up.",
+      "key_verse": "You also be patient. Establish your hearts, for the coming of the Lord is at hand.",
+      "reference": "James 5:8",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "prayer",
+      "count": 5,
+      "definition": "Direct communication with God, the holy use of the mouth in its highest calling. James closes his letter with one of the most practical teachings on prayer in all of Scripture. Are you suffering? Pray. Are you cheerful? Sing praises. Are you sick? Call the elders and let them pray over you. The prayer of faith will save the sick. The persistent prayer of a righteous person is powerfully effective, as Elijah proved when he prayed in step with the Father's determined will and the skies obeyed. Prayer is not a spare tire you pull out in emergencies. It is the steering wheel of the Christian life. But it requires a heart that asks in faith, without the double mindedness that characterizes those who do not truly trust God's sovereign care.",
+      "key_verse": "The insistent prayer of a righteous person is powerfully effective.",
+      "reference": "James 5:16",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "grace",
+      "count": 2,
+      "definition": "The undeserved favor of God toward those who do not merit it. James says God gives more grace, and He gives it to the humble. The proud get resistance. The humble get grace. Think of it this way: the Word of God is like a sword that pierces the conscience and exposes the sin, and grace is the balm that heals the wound afterward. This is the economy of heaven: the less you think of yourself, the more God pours into you. Grace in James is not a license to do whatever you want. It is the saving power that enables you to do what you could never do on your own.",
+      "key_verse": "But he gives more grace. Therefore it says, 'God resists the proud, but gives grace to the humble.'",
+      "reference": "James 4:6",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "religion",
+      "count": 2,
+      "definition": "The outward practice and expression of devotion to God. James uses this word to make a devastating point: if you think you are religious but do not control your tongue, your religion is worthless. Then he defines pure and undefiled religion in the simplest possible terms: visit orphans and widows in their trouble, and keep yourself unstained from the world. Real religion, for James, is not about rituals, appearances, or impressive words. It is about what you do with your hands and how clean you keep your heart.",
+      "key_verse": "Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.",
+      "reference": "James 1:27",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "pure",
+      "count": 2,
+      "definition": "Clean, unmixed, free from contamination. The wisdom from above is first of all pure. Pure religion is to keep yourself unstained by the world. In the original language, this word carries the idea of something so clean that it is fit to be brought into the presence of God. James is saying: before you worry about being peaceful, gentle, or merciful, start by being pure. Purity is the foundation on which everything else is built.",
+      "key_verse": "But the wisdom that is from above is first pure, then peaceful, gentle, reasonable.",
+      "reference": "James 3:17",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "anger",
+      "count": 2,
+      "definition": "A strong emotional response to perceived injustice. James warns: be slow to anger, because human anger does not produce the righteousness that God desires. In the original language, this word refers to a settled, burning indignation, not just a flash of irritation. Many believers justify their rage by calling it 'righteous anger,' but James is clear: before you get angry, make sure you have listened first and spoken carefully. Your fury, no matter how justified it feels to you, is rarely doing what you think it is doing for the kingdom of God.",
+      "key_verse": "For the anger of man doesn't produce the righteousness of God.",
+      "reference": "James 1:20",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "freedom",
+      "count": 2,
+      "definition": "Liberty that comes from obeying God's truth. James calls the law of God 'the perfect law of freedom.' This sounds like a contradiction until you understand what he means. When you live according to God's design, you are free from the slavery of sin, free from the tyranny of selfish desires, and free to become the person you were created to be. Freedom is not doing whatever you want. Freedom is wanting what God wants and having the power to do it.",
+      "key_verse": "But he who looks into the perfect law of freedom and continues, not being a hearer who forgets but a doer of the work, this man will be blessed in what he does.",
+      "reference": "James 1:25",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "jesus",
+      "count": 2,
+      "definition": "The personal name of the Son of God. James mentions Jesus by name only twice in his entire letter, but His presence fills every page. When James speaks of the royal law of love, of mercy triumphing over judgment, of humbling yourself before the Lord, he is echoing the teachings of the very brother he grew up with. James did not believe in Jesus during His earthly ministry. But after the resurrection, everything changed. The servant became the brother, and the brother became the Lord.",
+      "key_verse": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are in the Dispersion: Greetings.",
+      "reference": "James 1:1",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "christ",
+      "count": 2,
+      "definition": "The title meaning 'the Anointed One,' the promised Messiah. When James says 'our glorious Lord Jesus Christ,' he is making a staggering claim. The carpenter from Nazareth, the one James ate meals with, argued with, and watched grow up, is the Lord of glory. For James, faith in Christ is not an abstract theological exercise. It is personal, concrete, and it changes the way you treat every person who walks through the door of your assembly.",
+      "key_verse": "My brothers, don't hold the faith of our glorious Lord Jesus Christ with partiality.",
+      "reference": "James 2:1",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "heart",
+      "count": 3,
+      "definition": "The internal core of a person where thoughts, desires, and decisions are formed. James presents the heart as a battlefield where two opposing armies are in constant conflict: the pull of selfish desires and the call of God's grace. It is from the heart that wars and conflicts originate. It is the heart that must be purified, the heart that must be established, the heart that the double minded person has failed to surrender. James is saying: the real problem is never just what you did or what you said. The real problem is always what is happening inside, in that hidden place where only you and God can see.",
+      "key_verse": "Cleanse your hands, you sinners. Purify your hearts, you double-minded.",
+      "reference": "James 4:8",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "tempted",
+      "count": 4,
+      "definition": "To be drawn toward sin or tested by difficult circumstances. James uses this word four times in the first chapter alone, making a critical distinction between two very different experiences. God tests His children to strengthen them, the way a trainer pushes an athlete to build endurance. But God never entices anyone toward evil. That enticement comes from within, from our own desires that pull us away from what we know is right. When you feel the pull, recognize the source. It is not God trying to destroy you. It is your own flesh trying to deceive you.",
+      "key_verse": "Let no man say when he is tempted, 'I am tempted by God,' for God can't be tempted by evil, and he himself tempts no one.",
+      "reference": "James 1:13",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "coming",
+      "count": 4,
+      "definition": "The return of the Lord Jesus Christ to the earth, the blessed hope of every believer. James uses this word primarily in chapter 5, urging believers to be patient as they wait for the Lord's arrival. The coming of the Lord is not a distant theological concept for James. It is an imminent reality that should shape the way we live, the way we endure suffering, and the way we treat one another. The farmer waits patiently because he knows the harvest is certain. The believer waits patiently because the Judge is standing at the door.",
+      "key_verse": "Be patient therefore, brothers, until the coming of the Lord.",
+      "reference": "James 5:7",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "rain",
+      "count": 4,
+      "definition": "The early and late rains that nourish the crops in the land of Israel. James uses rain as part of his illustration of the patient farmer who plants and then waits, trusting that the seasons will do their work. In the ancient agricultural world, the early rain softened the soil for planting and the late rain brought the harvest to maturity. Without both, the crop would fail. James is telling us: God sends what you need in the season you need it. Your job is to plant, to be faithful, and to wait for the rain that only He can provide.",
+      "key_verse": "Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain.",
+      "reference": "James 5:7",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "name",
+      "count": 3,
+      "definition": "The identity and reputation of a person, and especially the sacred name of Christ. James says the rich blaspheme the honorable name by which believers are called, and he instructs the elders to anoint the sick in the name of the Lord. In the biblical world, a name was not just a label. It carried the full weight of a person's character, authority, and power. To act in the name of the Lord is to act under His authority, with His backing, and for His glory.",
+      "key_verse": "Don't they blaspheme the honorable name by which you are called?",
+      "reference": "James 2:7",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "hearts",
+      "count": 3,
+      "definition": "The internal core of a person where thoughts, desires, and decisions are formed. James commands us to purify our hearts and to establish them, because the coming of the Lord is near. The heart is where the real battle takes place. It is the battlefield where selfish desires clash with the call of God's grace. James is saying: the real problem is never just what you did or what you said. The real problem is always what is happening inside, in that hidden place where only you and God can see.",
+      "key_verse": "Cleanse your hands, you sinners. Purify your hearts, you double-minded.",
+      "reference": "James 4:8",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "patient",
+      "count": 3,
+      "definition": "Willing to wait without losing hope or complaining. James calls believers to be patient until the coming of the Lord, using the farmer as his model. The farmer does not dig up the seed every morning to check on it. He trusts the process. He trusts the rain. He trusts the seasons. Patience is not sitting around doing nothing. It is active faithfulness in the waiting, the steady refusal to give up even when the harvest seems impossibly far away.",
+      "key_verse": "You also be patient. Establish your hearts, for the coming of the Lord is at hand.",
+      "reference": "James 5:8",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "pray",
+      "count": 3,
+      "definition": "To communicate directly with God, bringing your needs, your gratitude, and your burdens before Him. James gives the clearest set of instructions on prayer in the entire New Testament: if you suffer, pray. If you are cheerful, sing praises. If you are sick, call the elders. And pray for one another. Prayer is not reserved for emergencies or special occasions. It is the constant rhythm of the Christian life, the breathing of the soul that keeps us connected to the Father of lights.",
+      "key_verse": "Is any among you suffering? Let him pray. Is any cheerful? Let him sing praises.",
+      "reference": "James 5:13",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "sins",
+      "count": 3,
+      "definition": "Acts of disobedience against the will and character of God. James connects sins to confession, healing, and restoration. He instructs believers to confess their sins to one another and to pray for one another so that they may be healed. Sin left in the dark grows. Sin brought into the light loses its power. The community of faith is meant to be a place where confession is safe, where forgiveness is real, and where no one has to carry the weight of their failures alone.",
+      "key_verse": "Confess your sins to one another, and pray for one another, that you may be healed.",
+      "reference": "James 5:16",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "glory",
+      "count": 2,
+      "definition": "The visible splendor, honor, and weight of God's presence. James speaks of our glorious Lord Jesus Christ, using a phrase that places the full majesty of God upon the carpenter from Nazareth. He also says the rich will fade away like a flower in the grass, losing all their earthly glory. The contrast is intentional: human glory is temporary, like wildflowers under the scorching sun. The glory of the Lord is eternal, unchanging, and it belongs to the one who humbles himself under God's mighty hand.",
+      "key_verse": "My brothers, don't hold the faith of our glorious Lord Jesus Christ with partiality.",
+      "reference": "James 2:1",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "death",
+      "count": 2,
+      "definition": "The final consequence of sin when it has fully matured. James traces a terrifying progression: desire gives birth to sin, and sin when fully grown gives birth to death. But he also closes his letter with a promise of hope: the one who turns a sinner from the error of his way will save a soul from death. Death in James is not just physical. It is the total separation from the life that God intended for His creatures. And the antidote is always the same: repentance, confession, and the restoring grace of the community of faith.",
+      "key_verse": "Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death.",
+      "reference": "James 1:15",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "hearer",
+      "count": 2,
+      "definition": "A person who listens to the Word of God but does not act on it. James says that if anyone is a hearer and not a doer, that person is like someone who looks in a mirror, sees their reflection, and immediately forgets what they looked like. The hearer is not ignorant. They know the truth. They have heard it clearly. But knowing and doing are two very different things. James is warning us: the Word of God was not given to inform you. It was given to transform you.",
+      "key_verse": "But be doers of the word, and not only hearers, deluding your own selves.",
+      "reference": "James 1:22",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "bridle",
+      "count": 2,
+      "definition": "A restraint placed on a horse's mouth to control and direct the animal. James uses the bridle as a powerful illustration of self-control. If you can bridle your tongue, you can bridle your whole body. The bridle does not destroy the horse. It directs it. In the same way, controlling your speech does not silence you. It channels your words toward what is constructive, truthful, and honoring to God.",
+      "key_verse": "If anyone among you thinks himself to be religious while he doesn't bridle his tongue, but deceives his heart, this man's religion is worthless.",
+      "reference": "James 1:26",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "adultery",
+      "count": 2,
+      "definition": "Unfaithfulness in the most intimate relationship. James uses this word not to describe a physical act but a spiritual betrayal. He calls those who befriend the world 'adulterers and adulteresses,' borrowing the language of the Old Testament prophets who compared Israel's idolatry to marital unfaithfulness. When you give your deepest loyalty to the values and systems of this world instead of to God, you are committing spiritual adultery. You are breaking the covenant with the one who loved you first.",
+      "key_verse": "You adulterers and adulteresses, don't you know that friendship with the world is hostility toward God?",
+      "reference": "James 4:4",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "abraham",
+      "count": 2,
+      "definition": "The patriarch of the faith, the father of the nation of Israel. James holds Abraham up as the ultimate example of living faith. Abraham believed God, and it was credited to him as righteousness. But then his faith was proven genuine when he offered his son Isaac on the altar. Abraham did not earn his standing with God through that act. He demonstrated it. His obedience was the visible evidence of an invisible trust that had already been declared righteous by God.",
+      "key_verse": "Wasn't Abraham our father justified by works, in that he offered up Isaac his son on the altar?",
+      "reference": "James 2:21",
+      "category_key": "the_living_faith",
+      "category_label": "The Living Faith",
+      "image_tag": "living_faith"
+    },
+    {
+      "word": "spirit",
+      "count": 2,
+      "definition": "The immaterial part of a person, or the Holy Spirit of God. James says the body without the spirit is dead, using it as a comparison: faith without works is equally lifeless. He also speaks of the spirit that God made to dwell in us, which yearns jealously for our complete devotion. The spirit is the breath of life that animates everything. Without it, the body is a corpse. Without works, faith is the same.",
+      "key_verse": "For as the body apart from the spirit is dead, even so faith apart from works is dead.",
+      "reference": "James 2:26",
+      "category_key": "the_father_of_lights",
+      "category_label": "The Father of Lights",
+      "image_tag": "father_of_lights"
+    },
+    {
+      "word": "stumble",
+      "count": 2,
+      "definition": "To fall into sin or error. James says we all stumble in many ways, and if anyone does not stumble in what they say, that person is perfect, able to bridle the whole body. The word 'stumble' is honest and compassionate. It does not describe a deliberate dive into evil. It describes the trip, the fall, the moment when you lose your footing. James acknowledges that perfection is impossible for us. But he also says that the area where we stumble most is our speech, and that is where the greatest growth must happen.",
+      "key_verse": "For in many things we all stumble. If anyone doesn't stumble in word, he is a perfect man.",
+      "reference": "James 3:2",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "spring",
+      "count": 2,
+      "definition": "A natural source of water flowing from the ground. James asks: does a spring send out fresh water and bitter water from the same opening? The answer is obvious: no. A single source produces a single kind of water. James is using nature to expose the hypocrisy of using the same mouth to bless God and curse people. If your words are sometimes sweet and sometimes poisonous, something is wrong at the source. The spring needs to be purified, and that purification can only happen from the inside out.",
+      "key_verse": "Does a spring send out from the same opening fresh and bitter water?",
+      "reference": "James 3:11",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "jealousy",
+      "count": 2,
+      "definition": "A bitter resentment toward the success, position, or blessings of others. James connects jealousy directly to earthly, unspiritual, demonic wisdom. Where there is bitter jealousy and selfish ambition, there is disorder and every kind of evil practice. Jealousy is the poison that destroys community from the inside. It whispers: why does he have what I deserve? Why was she chosen and not me? James is clear: this does not come from God. It comes from below.",
+      "key_verse": "But if you have bitter jealousy and selfish ambition in your heart, don't boast and don't lie against the truth.",
+      "reference": "James 3:14",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "selfish",
+      "count": 2,
+      "definition": "Concerned only with your own advantage, indifferent to the needs of others. James pairs 'selfish ambition' with jealousy as the twin marks of earthly wisdom. Selfish ambition is the engine behind the kind of leadership that builds platforms instead of people, that uses the church as a launching pad for personal fame, and that measures success by numbers rather than by faithfulness. James says: where this exists, expect chaos, division, and the collapse of everything that matters.",
+      "key_verse": "But if you have bitter jealousy and selfish ambition in your heart, don't boast and don't lie against the truth.",
+      "reference": "James 3:14",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "ambition",
+      "count": 2,
+      "definition": "The drive to advance, to climb, to gain a position of influence. In the original language, this word was used to describe the tactics of a politician who would do anything to win an election: bribery, manipulation, empty promises. James is not condemning the desire to serve God effectively. He is condemning the kind of ambition that is willing to lie, manipulate, and step on others to get to the top. The wisdom from above does not compete. It serves. It does not promote itself. It lifts others up.",
+      "key_verse": "This wisdom is not that which comes down from above, but is earthly, sensual, and demonic.",
+      "reference": "James 3:15",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "hypocrisy",
+      "count": 2,
+      "definition": "The act of pretending to be something you are not. In the original language, this word comes from the world of theater, where an actor would put on a mask and play a role on stage. James says the wisdom from above is 'without hypocrisy,' meaning it is genuine, transparent, and real. A hypocrite blesses God on Sunday and curses people on Monday. A hypocrite quotes Scripture with their mouth while their heart is far from God. James is calling for authenticity: let your inside match your outside.",
+      "key_verse": "But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.",
+      "reference": "James 3:17",
+      "category_key": "the_wisdom_from_above",
+      "category_label": "The Wisdom from Above",
+      "image_tag": "wisdom_above"
+    },
+    {
+      "word": "pleasures",
+      "count": 2,
+      "definition": "The desires and cravings that drive human behavior when God is not at the center. James says the source of wars and fights among believers is their own pleasures that wage war inside them. In the original language, this word is closely related to the idea of sensory gratification, the relentless pursuit of what feels good in the moment without regard for its consequences. James is not saying that all enjoyment is sinful. He is saying that when pleasure becomes the compass of your life instead of the will of God, it will inevitably lead to conflict, covetousness, and destruction.",
+      "key_verse": "Where do wars and fightings among you come from? Don't they come from your pleasures that war in your members?",
+      "reference": "James 4:1",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "war",
+      "count": 2,
+      "definition": "Conflict, fighting, and hostility, both within the individual and within the community. James opens chapter 4 by identifying the root of all relational destruction: internal war. The pleasures inside you are at war. And that internal war spills out into external fights with brothers and sisters. The irony is devastating: people who have been saved by the Prince of Peace are tearing each other apart because of uncontrolled desires. James says the solution is not better conflict management. It is the humility to submit your desires to God and let Him be the Lord of your longings.",
+      "key_verse": "Where do wars and fightings among you come from?",
+      "reference": "James 4:1",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "righteous",
+      "count": 2,
+      "definition": "A person who lives in right standing before God, whose life aligns with the character and will of the Lord. James says the persistent prayer of a righteous person is powerfully effective, and he uses Elijah as his example. Elijah was not a superhero. He was a man with a nature just like ours. But he prayed in alignment with the will of God, and heaven responded. To be righteous in James is not to be sinless. It is to be surrendered, to be the kind of person who brings everything to God in prayer and trusts Him with the outcome.",
+      "key_verse": "The insistent prayer of a righteous person is powerfully effective.",
+      "reference": "James 5:16",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    },
+    {
+      "word": "sick",
+      "count": 2,
+      "definition": "Those who are physically ill or spiritually weakened. James instructs the sick to call for the elders of the church, who should pray over them and anoint them with oil in the name of the Lord. This instruction connects three things that the modern world often separates: the body, the community, and the spiritual life. Healing in James is not a solo act. It involves the humility to ask for help, the presence of mature believers, the confession of sin, and the prayer of faith. God does not promise that every sick person will be immediately healed, but He does promise that the prayer of faith matters and that He is listening.",
+      "key_verse": "Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord.",
+      "reference": "James 5:14",
+      "category_key": "the_humble_heart",
+      "category_label": "The Humble Heart",
+      "image_tag": "humble_heart"
+    }
+  ],
+  "categories": {
+    "the_father_of_lights": {
+      "label": "The Father of Lights",
+      "description": "James begins his letter by pointing us to the source of everything good. God is not a distant idea or a philosophical concept. He is the Father of lights, the one from whom every good gift and every perfect gift descends. There is no shadow in Him, no variation, no dark corner. He gives wisdom without reproach. He chose to give us new birth through the word of truth. He is the Lawgiver, the Judge, the one who stands at the door. Every word in this category reveals who God is in the letter of James: generous, holy, merciful, unchanging, and absolutely sovereign over all things. When you know who He is, everything else falls into place.",
+      "image_tag": "father_of_lights",
+      "source_verse": "James 1:17, 'the Father of lights, with whom can be no variation'",
+      "word_count": 17
+    },
+    "the_living_faith": {
+      "label": "The Living Faith",
+      "description": "This is the engine of the entire letter. James refuses to let faith remain a private opinion or a Sunday confession. He grabs it by the collar and drags it into the real world. Can faith save you if it produces nothing? Can you say 'be warm and be filled' to a hungry brother and call that faith? Even the demons believe, and they tremble. James is not the enemy of faith. He is the enemy of a faith that sits down and never stands up. Every word in this category describes what genuine faith looks like when it puts on its work clothes: endurance, obedience, action, justice, and love that you can actually see with your eyes.",
+      "image_tag": "living_faith",
+      "source_verse": "James 2:17, 'even so faith, if it has no works, is dead in itself'",
+      "word_count": 15
+    },
+    "the_wisdom_from_above": {
+      "label": "The Wisdom from Above",
+      "description": "James knows that the Christian life requires more than good intentions. It requires wisdom, the kind that does not come from a university or a self-help book. Earthly wisdom is jealous, selfish, and full of disorder. The wisdom from above is pure, peaceful, gentle, reasonable, full of mercy and good fruits, without partiality and without hypocrisy. This category gathers the words that describe how we speak, how we teach, how we handle conflict, and how we discern the difference between what sounds smart and what is actually true. The tongue, the fire, peace, truth, purity. These are the instruments that wisdom uses when it takes control of a life.",
+      "image_tag": "wisdom_above",
+      "source_verse": "James 3:17, 'the wisdom from above is first pure, then peaceful'",
+      "word_count": 16
+    },
+    "the_humble_heart": {
+      "label": "The Humble Heart",
+      "description": "If the Father of Lights is the source, and living faith is the engine, and heavenly wisdom is the guide, then the humble heart is the soil in which all of it grows. James draws a relentless contrast between pride and humility, between the arrogance of the rich oppressor and the quiet trust of the suffering believer, between friendship with the world and submission to God. Every word in this category describes the posture of a life that has stopped fighting God and started resting in His hands: humility, patience, prayer, confession, and the willingness to wait for the Lord even when the wait feels unbearable. God resists the proud, but He pours His grace on the humble. That is the invitation James extends from the first chapter to the last.",
+      "image_tag": "humble_heart",
+      "source_verse": "James 4:10, 'Humble yourselves in the sight of the Lord, and he will exalt you'",
+      "word_count": 27
+    }
+  }
+}
