@@ -28,6 +28,7 @@
       --pill-count-bg: rgba(0,0,0,0.07);
       --tab-bg: #eee;
       --img-bg: #eee;
+      --fs-adj: 0px;
     }
     .dark {
       --bg: #1a1a1a;
@@ -68,12 +69,62 @@
     /* ============================================================
        HEADER
        ============================================================ */
-    .header {
+    .header-wrapper {
       position: sticky; top: 0; z-index: 50;
+    }
+    .header {
       background: var(--card);
       border-bottom: 1px solid var(--bor);
       box-shadow: 0 1px 3px var(--shadow);
     }
+
+    /* ============================================================
+       NAV DROPDOWN
+       ============================================================ */
+    .nav-menu-btn {
+      background: none; border: 1px solid var(--bor); border-radius: 8px;
+      height: 36px; width: 36px;
+      display: flex; align-items: center; justify-content: center;
+      color: var(--fg); font-size: 20px; line-height: 1;
+      transition: background 0.2s, color 0.2s;
+      flex-shrink: 0;
+    }
+    .nav-menu-btn:hover { background: var(--sec); }
+    .nav-menu-btn.active { background: var(--pri); color: var(--pri-fg); border-color: var(--pri); }
+
+    .nav-dropdown {
+      background: var(--card);
+      border-bottom: 1px solid var(--bor);
+      box-shadow: 0 6px 20px var(--shadow);
+      max-height: 0; overflow: hidden;
+      transition: max-height 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.25s ease;
+      opacity: 0;
+    }
+    .nav-dropdown.open { max-height: 380px; opacity: 1; }
+
+    .nav-dropdown-inner {
+      max-width: 768px; margin: 0 auto;
+      padding: 8px 12px 12px;
+      display: flex; flex-direction: column; gap: 2px;
+    }
+
+    .nav-item {
+      display: flex; align-items: center; gap: 12px;
+      padding: 10px 14px; border-radius: 8px;
+      color: var(--fg); cursor: pointer;
+      transition: background 0.15s;
+      border: none; background: none; width: 100%; text-align: left;
+      font-family: 'Roboto', sans-serif;
+    }
+    .nav-item:hover { background: var(--sec); }
+    .nav-item:hover .nav-num { color: var(--pri); }
+    .nav-num {
+      font-size: 11px; font-weight: 700; color: var(--fg2);
+      width: 22px; text-align: center; flex-shrink: 0;
+      letter-spacing: 0.5px; font-variant-numeric: tabular-nums;
+    }
+    .nav-label { font-size: 15px; font-weight: 500; flex: 1; }
+    .nav-arrow { color: var(--fg2); font-size: 18px; }
     .header-inner {
       max-width: 768px; margin: 0 auto;
       display: flex; align-items: center; justify-content: space-between;
@@ -208,7 +259,7 @@
     .expand-content {
       margin-top: 8px; padding: 16px;
       background: var(--sec); border-radius: 8px;
-      font-size: 14px; line-height: 1.75;
+      font-size: calc(14px + var(--fs-adj)); line-height: 1.75;
       display: none;
     }
     .expand-content.open { display: block; }
@@ -264,15 +315,15 @@
     .glossary-word { font-size: 32px; font-weight: 700; color: var(--pri); text-transform: capitalize; text-align: center; }
     .glossary-count { font-size: 13px; color: var(--fg2); text-align: center; margin-top: 4px; }
     .glossary-def { background: var(--sec); border-radius: 8px; padding: 16px; margin-top: 20px; }
-    .glossary-def h4 { font-weight: 600; margin-bottom: 8px; font-size: 14px; }
-    .glossary-def p { font-size: 14.5px; line-height: 1.75; }
+    .glossary-def h4 { font-weight: 600; margin-bottom: 8px; font-size: calc(14px + var(--fs-adj)); }
+    .glossary-def p { font-size: calc(14.5px + var(--fs-adj)); line-height: 1.75; }
     .glossary-verse {
       border-left: 4px solid var(--pri);
       background: var(--quote-bg);
       border-radius: 0 8px 8px 0;
       padding: 16px; margin-top: 20px;
     }
-    .glossary-verse p { font-size: 14.5px; line-height: 1.7; font-style: italic; }
+    .glossary-verse p { font-size: calc(14.5px + var(--fs-adj)); line-height: 1.7; font-style: italic; }
     .glossary-verse .ref { font-size: 13px; font-weight: 600; color: var(--pri); margin-top: 8px; font-style: normal; }
     .glossary-cat {
       border: 1px solid var(--bor); border-radius: 10px;
@@ -282,7 +333,7 @@
     .glossary-cat-header .label { font-size: 10px; text-transform: uppercase; letter-spacing: 1.5px; color: var(--fg2); margin-bottom: 4px; }
     .glossary-cat-header h4 { font-size: 20px; font-weight: 700; }
     .glossary-cat-body { padding: 16px; }
-    .glossary-cat-body p { font-size: 14px; line-height: 1.75; }
+    .glossary-cat-body p { font-size: calc(14px + var(--fs-adj)); line-height: 1.75; }
     .glossary-cat-body .src { font-size: 12px; color: var(--fg2); font-style: italic; margin-top: 12px; }
 
     /* ============================================================
@@ -304,13 +355,13 @@
        COMMENTARY (Step 5)
        ============================================================ */
     .cmt-section-title {
-      font-size: 15px; font-weight: 700; color: var(--pri);
+      font-size: calc(15px + var(--fs-adj)); font-weight: 700; color: var(--pri);
       margin: 24px 0 10px;
       padding-bottom: 6px;
       border-bottom: 1px solid var(--bor);
     }
     .cmt-section-title:first-child { margin-top: 0; }
-    .cmt-content p { font-size: 14.5px; line-height: 1.8; margin-top: 12px; }
+    .cmt-content p { font-size: calc(14.5px + var(--fs-adj)); line-height: 1.8; margin-top: 12px; }
 
     /* ============================================================
        FOOTER
@@ -474,6 +525,32 @@
       #lightbox.open #lightbox-rotate { display: flex; }
     }
 
+    /* ============================================================
+       FONT SIZE CONTROL
+       ============================================================ */
+    .font-ctrl { display: flex; align-items: center; gap: 3px; }
+    .font-btn {
+      background: none; border: 1px solid var(--bor); border-radius: 6px;
+      height: 36px; padding: 0 8px;
+      color: var(--fg); font-weight: 700; letter-spacing: -0.5px;
+      transition: background 0.2s, opacity 0.2s;
+      flex-shrink: 0;
+    }
+    .font-btn:hover:not(:disabled) { background: var(--sec); }
+    .font-btn:disabled { opacity: 0.28; cursor: default; }
+    #fontDecBtn { font-size: 11px; }
+    #fontIncBtn { font-size: 15px; }
+    .font-step {
+      font-size: 10px; font-weight: 700; color: var(--fg2);
+      min-width: 14px; text-align: center; user-select: none;
+    }
+
+    /* On very small screens hide theme label to save header space */
+    @media (max-width: 500px) {
+      #themeText { display: none; }
+      .theme-btn { padding: 0 10px; }
+    }
+
     /* Word highlight in Context View */
     .word-highlight {
       background: rgba(155, 27, 52, 0.13);
@@ -499,25 +576,64 @@
     <img id="splash-img" src="" alt="D-Groups Bible Study App">
   </div>
 
-  <!-- HEADER -->
-  <header class="header">
-    <div class="header-inner">
-      <div class="logo-d">
-        <img src="./images/logos/DGroupLogo.png" alt="D-Groups">
+  <!-- HEADER WRAPPER (sticky) -->
+  <div class="header-wrapper">
+    <header class="header">
+      <div class="header-inner">
+        <div class="logo-d">
+          <img src="./images/logos/DGroupLogo.png" alt="D-Groups">
+        </div>
+        <div class="header-center">
+          <div class="header-title">D-Groups Bible Study App</div>
+          <div class="header-sub">James WEB, Bible Version</div>
+        </div>
+        <div class="header-right">
+          <div class="font-ctrl" title="Text size">
+            <button class="font-btn" id="fontDecBtn" onclick="changeFontSize(-1)" aria-label="Decrease text size">A−</button>
+            <span class="font-step" id="fontStep">·</span>
+            <button class="font-btn" id="fontIncBtn" onclick="changeFontSize(+1)" aria-label="Increase text size">A+</button>
+          </div>
+          <button class="nav-menu-btn" id="navMenuBtn" onclick="toggleNavMenu()" aria-label="Navigation menu">&#9776;</button>
+          <button class="theme-btn" id="themeToggle" onclick="toggleDark()">
+            <span id="themeIcon">&#9790;</span>
+            <span id="themeText" style="font-size: 14px; font-weight: 500;">Dark Theme</span>
+          </button>
+          <img src="./images/logos/logo-light.png" alt="EIC" class="eic-logo" id="eicLogo">
+        </div>
       </div>
-      <div class="header-center">
-        <div class="header-title">D-Groups Bible Study App</div>
-        <div class="header-sub">James WEB, Bible Version</div>
-      </div>
-      <div class="header-right">
-        <button class="theme-btn" id="themeToggle" onclick="toggleDark()">
-          <span id="themeIcon">&#9790;</span>
-          <span id="themeText" style="font-size: 14px; font-weight: 500;">Dark Theme</span>
+    </header>
+
+    <!-- NAV DROPDOWN -->
+    <nav class="nav-dropdown" id="navDropdown" aria-label="Section navigation">
+      <div class="nav-dropdown-inner">
+        <button class="nav-item" onclick="navTo('contextCard')">
+          <span class="nav-num">01</span>
+          <span class="nav-label">Context View</span>
+          <span class="nav-arrow">&#8250;</span>
         </button>
-        <img src="./images/logos/logo-light.png" alt="EIC" class="eic-logo" id="eicLogo">
+        <button class="nav-item" onclick="navTo('wordsCard')">
+          <span class="nav-num">02</span>
+          <span class="nav-label">Repeated Words</span>
+          <span class="nav-arrow">&#8250;</span>
+        </button>
+        <button class="nav-item" onclick="navTo('glossaryCard')">
+          <span class="nav-num">03</span>
+          <span class="nav-label">Glossary of Terms</span>
+          <span class="nav-arrow">&#8250;</span>
+        </button>
+        <button class="nav-item" onclick="navTo('visualCard')">
+          <span class="nav-num">04</span>
+          <span class="nav-label">Visual Overview</span>
+          <span class="nav-arrow">&#8250;</span>
+        </button>
+        <button class="nav-item" onclick="navTo('cmtCard')">
+          <span class="nav-num">05</span>
+          <span class="nav-label">Commentary</span>
+          <span class="nav-arrow">&#8250;</span>
+        </button>
       </div>
-    </div>
-  </header>
+    </nav>
+  </div>
 
   <!-- PRAYER BANNER -->
   <div class="prayer">
@@ -550,11 +666,11 @@
   <div class="main">
 
     <!-- STEP 1: CONTEXT VIEW -->
-    <div class="card">
+    <div class="card" id="contextCard">
       <div class="card-head">
         <div class="card-title">
           <img src="./images/icons/contextviewicon-redcolor.png" alt="" class="icon" id="icon-context">
-          Step 1: Context View
+          Context View
         </div>
         <p class="card-sub">See your selected verse in context with surrounding verses</p>
       </div>
@@ -576,11 +692,11 @@
     </div>
 
     <!-- STEP 2: REPEATED WORDS -->
-    <div class="card">
+    <div class="card" id="wordsCard">
       <div class="card-head">
         <div class="card-title">
           <img src="./images/icons/repetitionicon-redcolor.png" alt="" class="icon" id="icon-repeat">
-          Step 2: Repeated Words
+          Repeated Words
         </div>
         <p class="card-sub" id="wordsSubtitle">Discover key themes in Chapter 1</p>
       </div>
@@ -612,7 +728,7 @@
       <div class="card-head">
         <div class="card-title">
           <img src="./images/icons/glossaryoftermsicon-redcolor.png" alt="" class="icon" id="icon-glossary">
-          Step 3: Glossary of Terms
+          Glossary of Terms
         </div>
         <p class="card-sub" id="glossarySub">Click a key word above to see its definition</p>
       </div>
@@ -636,11 +752,11 @@
     </div>
 
     <!-- STEP 4: VISUAL OVERVIEW -->
-    <div class="card">
+    <div class="card" id="visualCard">
       <div class="card-head">
         <div class="card-title">
           <img src="./images/icons/visualoverviewbychaptericon-redcolor.png" alt="" class="icon" id="icon-visual">
-          Step 4: Visual Overview
+          Visual Overview
         </div>
         <p class="card-sub" id="visualSub">Chapter 1: The Scattered Elect</p>
       </div>
@@ -653,11 +769,11 @@
     </div>
 
     <!-- STEP 5: COMMENTARY -->
-    <div class="card">
+    <div class="card" id="cmtCard">
       <div class="card-head">
         <div class="card-title">
           <img src="./images/icons/commentarybychaptericon-redcolor.png" alt="" class="icon" id="icon-cmt">
-          Step 5: Commentary
+          Commentary
         </div>
         <p class="card-sub" id="cmtSub">Chapter 1</p>
       </div>
@@ -700,7 +816,8 @@
       tab: "kw",
       selWord: null,
       isDark: false,
-      expanded: {}
+      expanded: {},
+      fontStep: 0
     };
 
     // ============================================================
@@ -832,9 +949,14 @@
       renderPills();
       renderGlossary();
       renderContext();
-      // Scroll to glossary only for keywords (which have definitions)
+      // Scroll to the definition box so it's centered on screen
       if (state.selWord && state.tab === "kw") {
-        document.getElementById("glossaryCard").scrollIntoView({ behavior: "smooth", block: "center" });
+        const defEl = document.querySelector(".glossary-def");
+        if (defEl) {
+          defEl.scrollIntoView({ behavior: "smooth", block: "center" });
+        } else {
+          document.getElementById("glossaryCard").scrollIntoView({ behavior: "smooth", block: "start" });
+        }
       }
     }
 
@@ -880,7 +1002,8 @@
         const distVs = (e.ch - state.ch) * 100 + (e.vs - state.vs); // rough signed distance
         const dist = Math.abs(e.vs - state.vs) + Math.abs(e.ch - state.ch) * 3;
         const opacity = isSel ? 1 : Math.max(0.4, 1 - dist * 0.2);
-        const fontSize = isSel ? 15.5 : Math.max(13.5, 15 - dist * 0.5);
+        const fsBase = 15 + state.fontStep * 2;
+        const fontSize = isSel ? (fsBase + 0.5) : Math.max(fsBase - 2, fsBase - dist * 0.5);
         const delay = (idx * 0.05).toFixed(2);
 
         // Chapter divider between chapters
@@ -1159,6 +1282,55 @@
       updateVisual();
       renderCommentary();
     }
+
+    // ============================================================
+    // FONT SIZE CONTROL
+    // ============================================================
+    function changeFontSize(delta) {
+      state.fontStep = Math.max(-3, Math.min(3, state.fontStep + delta));
+      const adj = state.fontStep * 2;
+      document.documentElement.style.setProperty('--fs-adj', adj + 'px');
+      document.getElementById('fontDecBtn').disabled = state.fontStep <= -3;
+      document.getElementById('fontIncBtn').disabled = state.fontStep >= 3;
+      const ind = document.getElementById('fontStep');
+      ind.textContent = state.fontStep === 0 ? '·' : (state.fontStep > 0 ? '+' + state.fontStep : state.fontStep);
+      renderContext();
+    }
+
+    // ============================================================
+    // NAV MENU
+    // ============================================================
+    function toggleNavMenu() {
+      const dropdown = document.getElementById("navDropdown");
+      const btn = document.getElementById("navMenuBtn");
+      const isOpen = dropdown.classList.contains("open");
+      dropdown.classList.toggle("open", !isOpen);
+      btn.classList.toggle("active", !isOpen);
+      btn.innerHTML = !isOpen ? "&#10005;" : "&#9776;";
+    }
+
+    function navTo(id) {
+      const el = document.getElementById(id);
+      if (el) {
+        const header = document.querySelector(".header");
+        const offset = header ? header.offsetHeight + 8 : 72;
+        const top = el.getBoundingClientRect().top + window.pageYOffset - offset;
+        window.scrollTo({ top: top, behavior: "smooth" });
+      }
+      document.getElementById("navDropdown").classList.remove("open");
+      document.getElementById("navMenuBtn").classList.remove("active");
+      document.getElementById("navMenuBtn").innerHTML = "&#9776;";
+    }
+
+    document.addEventListener("click", function(e) {
+      const btn = document.getElementById("navMenuBtn");
+      const dropdown = document.getElementById("navDropdown");
+      if (btn && dropdown && !btn.contains(e.target) && !dropdown.contains(e.target)) {
+        dropdown.classList.remove("open");
+        btn.classList.remove("active");
+        btn.innerHTML = "&#9776;";
+      }
+    });
 
     // ============================================================
     // INIT
