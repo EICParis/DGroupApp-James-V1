@@ -6,10 +6,10 @@ const CM = {"1": {"title": "Faith, Provision and Silence in the Christian Life",
 const DIS = "This study resource was developed by the pastoral team at EIC Paris, drawing directly from our church's sermon notes, live teachings, and biblical resources. All original materials were carefully reviewed, edited, and curated by the pastors of EIC Paris. In the interest of transparency, Artificial Intelligence (AI) was utilized strictly as an editorial tool to assist with text cleanup, grammar refinement, and translation for clarity. AI was not used to generate theological concepts or interpret Scripture.";
 const VC = {1:27,2:26,3:18,4:17,5:20};
 const CD = {
-  1:{t:"The Mirror and the Crown",d:"A mirror reflecting one's true self, ocean waves of doubt, and the crown of life promised to those who endure."},
+  1:{t:"The Mirror and the Crown",d:"In the journey of faith, there are two options we can consider. One is to examine ourselves in the light of the Bible, using it as a mirror to identify our weaknesses and shortcomings, not to torment ourselves, but to turn to Christ and the Gospel with faith and correct our path toward eternity. The alternative is to continue on the same path as everyone else, without God and without future hope."},
   2:{t:"Faith Without Partiality",d:"The contrast between favoritism toward the rich and the living faith demonstrated by Abraham and Rahab."},
   3:{t:"The Tongue and the Fire",d:"The tongue as rudder, bridle, and spark, with the contrast between earthly and heavenly wisdom."},
   4:{t:"The Vapor and the Humble Heart",d:"The crossroads between friendship with the world and submission to God, with life as a passing vapor."},
-  5:{t:"The Patient Farmer",d:"The farmer waiting for rain, Elijah praying, and the restoration of the wandering brother."}
+  5:{t:"The Patient Farmer",d:"Transitions in life are inevitable, but just as there is a farmer who sows to reap and gets to see his crop grow, our spiritual life can also grow to the point that we can reach those who need Christ in their lives, and this is exemplified in the restoration of a brother or sister in the faith."}
 };
 const CAC = {the_father_of_lights:"#D4A017",the_living_faith:"#8B2500",the_wisdom_from_above:"#1B5E7B",the_humble_heart:"#2E6B3D"};
